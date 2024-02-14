@@ -12,3 +12,5 @@ Kolom tabel "produk":
 - "keterangan"
 - "harga"
 - "jumlah
+
+http://localhost/belajar_crud/index.php
